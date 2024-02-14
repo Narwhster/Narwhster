@@ -1,6 +1,18 @@
-👋 Hi, I’m @Narwhster
-Currently studying the Java language as my prefered language, but it'll probably change like a lot.
-I'm interested in anything engineering and computer science related.
+---
 
-📫 How to reach me:
-https://www.twitter.com/narwhster/
+## 👋 Hello there!
+
+I'm Daniel, a passionate computer science student. 
+
+I speicalize in:
+- 💻 Software Development and Automation
+- 🌐 Web Development
+- 🎮 Game Design
+- 💡 Experience Design
+- 🎬 Video Editing
+
+I love making everyday experiences more enjoyable.
+
+📧 Feel free to connect with me over on [Twitter](https://www.twitter.com/narwhster/)!
+
+--- 

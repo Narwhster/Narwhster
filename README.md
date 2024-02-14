@@ -4,7 +4,7 @@
 
 I'm Daniel, a passionate computer science student. 
 
-I speicalize in:
+I specialize in:
 - 💻 Software Development and Automation
 - 🌐 Web Development
 - 🎮 Game Design

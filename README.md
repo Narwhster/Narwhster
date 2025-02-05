@@ -1,14 +1,10 @@
 ## 👋 Hello there!
 
-I'm Daniel, a passionate computer science student. 
-
-I specialize in:
-- 💻 Software Development and Automation
+I'm Daniel, a passionate software developer interested in:
+- 💡 User and Developer Experience (UX/DX)
 - 🌐 Web Development
 - 🎮 Game Design
-- 💡 Experience Design
-- 🎬 Video Editing
 
 I love making everyday experiences more enjoyable.
 
-📧 Feel free to connect with me over on [Twitter](https://www.twitter.com/narwhster/)!
+🏡 Check out my [website](https://narwhster.com/)!
